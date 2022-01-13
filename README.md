@@ -1,2 +1,2 @@
 # Titanic_Prediction
-Titanic_Survival-Machine Learning From Disaster
+Titanic_Survival_Prediction-Machine Learning From Disaster
